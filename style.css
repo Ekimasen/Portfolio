@@ -1,15 +1,14 @@
-@font-face {
-    font-family: Pixeloid Sans;
-    src: url(PixeloidSans-mLxMm.ttf);
-}
+
 html,
 body {
     height: 100%;
     background-color: #232946;
-    font-family: Pixeloid Sans;
+    font-family: 'Pixelify Sans';
 
 }
-
+h1{
+    font-size: 65px;
+}
 body p{
     color: #b8c1ec;
 }
