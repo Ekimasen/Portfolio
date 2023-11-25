@@ -2,7 +2,7 @@
 html,
 body {
     height: 100%;
-    background-color: #232946;
+    background-color: #0f0e17;
     font-family: 'Pixelify Sans';
 
 }
@@ -10,20 +10,20 @@ h1{
     font-size: 45px;
 }
 body p{
-    color: #b8c1ec;
+    color: #a7a9be;
 }
 body h1,h2{
     color: #fffffe;
 }
 nav{
-    background-color: #232946;
+    background-color: #0f0e17;
     width: 100%;
 }
 .nav-link {
     color: #fffffe;
 }
 .nav-link:hover{
-    color: #eebbc3;
+    color: #e53170;
 }
 .active a {
     color: red !important;
@@ -58,7 +58,7 @@ header {
 }
 
 footer {
-    background-color: #313961;
+    background-color: #1b192b;
 
 }
 
@@ -81,21 +81,21 @@ footer a:hover {
     background-color: #fffffe;
 }
 .card-title{
-    color: #232946;
+    color: #0f0e17;
 }
 .card-text{
-    color: #232946;
+    color: #a7a9be;
 }
 
 .btn{
-    background-color: #232946;
+    background-color: #ff8906;
     color: #fffffe;
     border: #eebbc3;
 }
 
 .btn:hover{
-    background-color: #eebbc3;
-    color: #232946;
+    background-color: #0f0e17;
+    color: #fffffe;
     border: #eebbc3;
 }
 .navbar-toggler-icon {
